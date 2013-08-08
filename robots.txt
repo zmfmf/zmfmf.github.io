@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://zmfmf.com/sitemap.xml 
+Sitemap: http://zmfmf.github.io/sitemap.xml 

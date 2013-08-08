@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Zombie Muva-Fukka, Muva-Fukka]]></title>
-  <link href="http://zmfmf.com/atom.xml" rel="self"/>
-  <link href="http://zmfmf.com/"/>
-  <updated>2013-08-08T19:42:32+01:00</updated>
-  <id>http://zmfmf.com/</id>
+  <link href="http://zmfmf.github.io/atom.xml" rel="self"/>
+  <link href="http://zmfmf.github.io/"/>
+  <updated>2013-08-08T20:44:20+01:00</updated>
+  <id>http://zmfmf.github.io/</id>
   <author>
     <name><![CDATA[Rizla Khan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Fingers And Questions]]></title>
-    <link href="http://zmfmf.com/blog/2013/08/08/fingers-and-questions/"/>
+    <link href="http://zmfmf.github.io/blog/2013/08/08/fingers-and-questions/"/>
     <updated>2013-08-08T11:46:00+01:00</updated>
-    <id>http://zmfmf.com/blog/2013/08/08/fingers-and-questions</id>
+    <id>http://zmfmf.github.io/blog/2013/08/08/fingers-and-questions</id>
     <content type="html"><![CDATA[<p>I&rsquo;m still undecided on what to write here.  Non-fiction seems most likely but I would hate to be writing a diary so I&rsquo;ll try very hard to leave out written opinion and myself.  Still, a diary of sorts will be formed as the choices of what to include here will be dictated by my opinion and over time as my mind changes so then will the content.  I&rsquo;ll live with that.</p>
 
 <p>Fiction will be tagged and I&rsquo;ll find some way to place it within a border so as to contain it and it&rsquo;s limitless domain.</p>
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[Turn me on]]></title>
-    <link href="http://zmfmf.com/blog/2013/08/03/turn-me-on/"/>
+    <link href="http://zmfmf.github.io/blog/2013/08/03/turn-me-on/"/>
     <updated>2013-08-03T12:57:00+01:00</updated>
-    <id>http://zmfmf.com/blog/2013/08/03/turn-me-on</id>
+    <id>http://zmfmf.github.io/blog/2013/08/03/turn-me-on</id>
     <content type="html"><![CDATA[<p>Blog is online.  My window is open but I don&rsquo;t hear any shouts.
 Is it possible to successfully blog about nothing happening?</p>
 ]]></content>
