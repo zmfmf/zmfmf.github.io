@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://zmfmf.github.io/blog/2013/08/03/turn-me-on/</loc>
+        <loc>http://blog.zmfmf.com/blog/2013/08/03/turn-me-on/</loc>
         <lastmod>2013-08-08T14:15:02+01:00</lastmod>
     </url>
     <url>
-        <loc>http://zmfmf.github.io/blog/2013/08/08/fingers-and-questions/</loc>
+        <loc>http://blog.zmfmf.com/blog/2013/08/08/fingers-and-questions/</loc>
         <lastmod>2013-08-08T14:47:01+01:00</lastmod>
     </url>
     <url>
-        <loc>http://zmfmf.github.io/</loc>
+        <loc>http://blog.zmfmf.com/</loc>
         <lastmod>2013-08-08T14:47:01+01:00</lastmod>
     </url>
     <url>
-        <loc>http://zmfmf.github.io/robots.txt</loc>
+        <loc>http://blog.zmfmf.com/robots.txt</loc>
         <lastmod>2013-08-08T12:21:59+01:00</lastmod>
     </url>
     <url>
-        <loc>http://zmfmf.github.io/blog/archives/</loc>
+        <loc>http://blog.zmfmf.com/blog/archives/</loc>
         <lastmod>2013-08-08T14:47:01+01:00</lastmod>
     </url>
     <url>
-        <loc>http://zmfmf.github.io/about-me.html</loc>
+        <loc>http://blog.zmfmf.com/about-me.html</loc>
         <lastmod>2013-08-08T14:22:03+01:00</lastmod>
     </url>
 </urlset>
